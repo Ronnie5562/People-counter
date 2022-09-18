@@ -1,0 +1,25 @@
+body{
+    background: skyblue;
+}
+div.container{
+    text-align: center;
+    font-size: 250%;
+    font-weight: 900;
+}
+h2{
+    font-size: 90px;
+}
+button{
+    padding: 20px 40px;
+    border-radius: 20px;
+    background: darkred;
+    border-color: white;
+    color: white;
+    box-sizing: border-box;
+}
+#save-btn{
+    background: darkgreen;
+}
+span{
+    text-decoration: underline;
+}
